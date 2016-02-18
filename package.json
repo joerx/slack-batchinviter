@@ -1,0 +1,15 @@
+{
+  "name": "slack-batchinviter",
+  "version": "0.1.0",
+  "description": "Stupid tool to batch-invite people into a slack channel by email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["slack"],
+  "author": "Jörg Henning <henning.joerg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
